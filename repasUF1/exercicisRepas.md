@@ -1,6 +1,6 @@
 # Exercicis repas UF1
 ## Exercici 1:
-__input:__ Demana dos nombres i treu oer consola la seva mitjana aritmentica
+__input:__ Demana dos nombres i treu per consola la seva mitjana aritmètica
 
 ```
 Exercici 1:
@@ -13,7 +13,7 @@ La mitjana de 2.0 i 9.0 es = 5.5
 ## Exercici 2:
 __input:__ Demana una quantitat de segons
 
-__output:__ Treu per consola a qunats minuts i segons equival
+__output:__ Treu per consola a quants minuts i segons equival
 ```
 Exercici 2:
 
@@ -36,7 +36,9 @@ El nombre major es: 8
 ```
 
 ## Exercici 4: _while_
-__input:__ Demana 5 nombres per teclat. 
+__input:__ Demana 5 nombres per teclat
+
+(utilitza bucle while)
 
 __output:__ Treu per consola:
 - La suma dels 5 nombres
@@ -56,7 +58,9 @@ La mitjana es 6.8
 
 
 ## Exercici 5: _for_
-__input:__ Demana 5 nombres per teclat. 
+__input:__ Demana 5 nombres per teclat 
+
+(utilitza bucle for)
 
 __output:__ Treu per consola:
 - La suma dels 5 nombres
@@ -77,7 +81,7 @@ La mitjana es 6.4
 
 
 ## Exercici 6: _llistes_
-__input:__ Fes un bucle per demanar nombres per teclat, el bucle ha de finalitzar quan s'introduieix un 0
+__input:__ Fes un bucle per demanar nombres per teclat, el bucle ha de finalitzar quan s'introdueix un 0
 
 __output:__ Treu per consola la llargada de la llista
 ```
