@@ -1,9 +1,7 @@
 # Exercicis repas UF1
 ## Exercici 1:
-__input:__ Demana dos nombres
-Calcula la amitjana aritmentica de dos nombres demanats per consola
+__input:__ Demana dos nombres i treu oer consola la seva mitjana aritmentica
 
-__output:__ 
 ```
 Exercici 1:
 
