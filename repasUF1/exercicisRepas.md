@@ -1,4 +1,4 @@
-# Exercicis repas UF1
+# Exercicis repàs
 ## Exercici 1:
 __input:__ Demana dos nombres i treu per consola la seva mitjana aritmètica
 
